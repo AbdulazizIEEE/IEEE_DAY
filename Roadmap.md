@@ -228,3 +228,9 @@ While not necessary for everyone, certifications are often highly valued in the 
 Cybersecurity is a vast and ever-evolving field, so it's crucial to adapt and continuously learn. Depending
 
  on the direction you choose, whether it's ethical hacking, threat hunting, or cloud security, this roadmap provides a structured way to navigate the field with relevant resources at each stage.
+
+
+**See also:**
+[cyber-security.pdf](https://github.com/user-attachments/files/17299989/cyber-security.pdf)
+
+
