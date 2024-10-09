@@ -2,6 +2,9 @@ Roadmap
 --------------------
 You Can Check This TryHackMe Roadmap: 
 **[TryHackMe Roadmap](https://github.com/rng70/TryHackMe-Roadmap)**
+
+You Can Also Check IEEE Related Publications about CyberSecurity:
+**[IEEE](https://www.ieee.org/searchresults/index.html?q=cybersecurity#gsc.tab=0&gsc.q=cybersecurity&gsc.page=1)**
 ### **1. Introduction to Cybersecurity**
 
 #### **Goals:**
